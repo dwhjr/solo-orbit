@@ -46,7 +46,7 @@ Used flat file structure for simplification and timing allotetd for construction
 Follow these steps to run the application locally:
 
 1. Clone the repository:</br>
-   [git clone](https://github.com/dwhjr/solo-orbit/)</br>
+   [git clone](https://github.com/dwhjr/solo-orbit.git)</br>
    ```bash
    cd solo-orbit
    ```
