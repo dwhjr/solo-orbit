@@ -45,20 +45,20 @@ This repository contains all the necessary files to run and deploy the Solo Orbi
 
 Follow these steps to run the application locally:
 
-1. Clone the repository:
+1. Clone the repository:</br>
+      [git clone](https://github.com/dwhjr/solo-orbit.git)
    ```bash
-   [git clone](https://github.com/dwhjr/solo-orbit.git)
    cd solo-orbit
    ```
 
-2. Build and start the application using Docker Compose:
+3. Build and start the application using Docker Compose:
    ```bash
    docker-compose up --build
    ```
 
-3. Access the website at `http://localhost:8080`.
+4. Access the website at `http://localhost:8080`.
 
-4. To stop the application:
+5. To stop the application:
    ```bash
    docker-compose down
    ```
