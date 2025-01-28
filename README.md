@@ -47,8 +47,8 @@ Follow these steps to run the application locally:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   [git clone](https://github.com/dwhjr/solo-orbit.git)
+   cd solo-orbit
    ```
 
 2. Build and start the application using Docker Compose:
@@ -122,3 +122,8 @@ Follow these steps to run the application locally:
 
 &copy; 2025 Solo Orbit Technologies. All rights reserved.
 
+## Acknowledgments and Parting Thoughts
+
+- Be Kind
+- Pals
+- By God Woodrow, you just never get the point do you? It ain't dying I am talking about, it's living.
