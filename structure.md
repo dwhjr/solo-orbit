@@ -1,0 +1,22 @@
+.
+├── Dockerfile
+├── README.md
+├── Solo-Orbit-CHMOD.sh
+├── bashcode
+├── docker-compose.yml
+├── index.html
+├── run_solo_orbit.sh
+├── shutdown_and_remove.sh
+├── solo-img-114x114.png
+├── solo-img-120x120.png
+├── solo-img-1290x2796.jpeg
+├── solo-img-40x40-jpeg.png
+├── solo-img-60x60.png
+├── solo-img-87x87.png
+├── solo-img.jpeg
+├── solo-img.png
+├── structure.md
+├── tree-solo.txt
+└── variables.sh
+
+1 directory, 19 files

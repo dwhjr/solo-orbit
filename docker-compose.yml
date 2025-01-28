@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  solo-orbit:
+    build:
+      context: .  # Path to the directory containing the Dockerfile and files
+      dockerfile: Dockerfile  # Specify the Dockerfile (optional if named 'Dockerfile')
+    container_name: solo-orbit-container
+    ports:
+      - "8080:80"  # Map host port 8080 to container port 80
+    volumes:
+      - ./:/usr/share/nginx/html  # Mount the entire current folder to the container's web root
+    restart: always  # Ensure the container restarts automatically on failure
+
