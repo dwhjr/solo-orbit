@@ -1,4 +1,5 @@
 # Solo Orbit Technologies
+### Stamping Web Space
 
 ## Overview
 This repository contains all the necessary files to run and deploy the Solo Orbit Technologies website, designed with Nginx in a Dockerized environment. The website features static HTML, CSS, and images that present Solo Orbit Technologies' branding and contact information.
